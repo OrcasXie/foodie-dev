@@ -1,0 +1,12 @@
+com\orcas\pojo\Carousel.class
+com\orcas\pojo\Category.class
+com\orcas\pojo\ItemsComments.class
+com\orcas\pojo\Orders.class
+com\orcas\pojo\ItemsParam.class
+com\orcas\pojo\OrderItems.class
+com\orcas\pojo\ItemsImg.class
+com\orcas\pojo\Items.class
+com\orcas\pojo\ItemsSpec.class
+com\orcas\pojo\OrderStatus.class
+com\orcas\pojo\Users.class
+com\orcas\pojo\UserAddress.class

@@ -1,0 +1,13 @@
+com\orcas\mapper\ItemsParamMapper.class
+com\orcas\mapper\UserAddressMapper.class
+com\orcas\my\mapper\MyMapper.class
+com\orcas\mapper\CategoryMapper.class
+com\orcas\mapper\ItemsImgMapper.class
+com\orcas\mapper\OrderStatusMapper.class
+com\orcas\mapper\ItemsMapper.class
+com\orcas\mapper\UsersMapper.class
+com\orcas\mapper\OrderItemsMapper.class
+com\orcas\mapper\ItemsCommentsMapper.class
+com\orcas\mapper\CarouselMapper.class
+com\orcas\mapper\ItemsSpecMapper.class
+com\orcas\mapper\OrdersMapper.class
